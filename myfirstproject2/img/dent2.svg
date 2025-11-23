@@ -1,0 +1,12 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="Y&amp;S Dent Stomatologia logo">
+
+  <title>Y&amp;S Dent Stomatologia</title>
+
+  <!-- Основной текст -->
+  <text x="0" y="70" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="500" fill="#CFCFCF">Y&amp;S Dent</text>
+
+  <!-- Подзаголовок -->
+  <text x="0" y="115" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="6" fill="#CFCFCF">STOMATOLOGIA</text>
+
+</svg>
